@@ -28,3 +28,16 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* src/css/custom.css */
+.navbar {
+  background: #2e8555 !important; /* Set to your desired color */
+}
+
+.navbar__item {
+  color: white !important; /* Optional: change navbar item text color */
+}
+
+.navbar__brand {
+  color: white !important; /* Optional: change the logo text color */
+}
